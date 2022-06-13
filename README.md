@@ -9,7 +9,9 @@ I'm a Sophomore studying for my BS in `Computer Science` currently enrolled at *
 <img src="ProgramLanguages/cpp.png" width="25">  <img src="ProgramLanguages/html.png" width="25">  <img src="ProgramLanguages/css.png" width="25">  <img src="ProgramLanguages/java.png" width="25">  <img src="ProgramLanguages/python.png" width="25">
 
 ___
+<br/>
+<br/>
 
-### Get in touch
+# Get in touch
 
-[![Twitter]()](https://twitter.com/iammaxlichter)
+[![Twitter](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/My%20project%20(1).png?raw=true)](https://twitter.com/iammaxlichter)
