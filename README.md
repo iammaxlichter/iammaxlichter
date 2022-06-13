@@ -10,7 +10,7 @@ I'm a Sophomore studying for my BS in `Computer Science` currently enrolled at *
 
 ___
 <br/>
-<br/>
+
 
 # Get in touch
 
