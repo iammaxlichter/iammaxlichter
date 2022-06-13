@@ -4,4 +4,4 @@ I'm a Sophomore studying for my BS in `Computer Science` currently enrolled at *
 
 
 ### 🔗 Connect With Me!
-<img src="Pictures/twitter.png" width="100">
+
