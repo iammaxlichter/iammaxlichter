@@ -6,7 +6,7 @@ I'm a Sophomore studying for my BS in `Computer Science` currently enrolled at *
 
 
 ### Languages
-<img src="ProgramLanguages/cpp.png" width="25">  <img src="ProgramLanguages/html.png" width="25">  <img src="ProgramLanguages/css.png" width="25">  <img src="ProgramLanguages/java.png" width="25">  <img src="ProgramLanguages/python.png" width="25">
+<img src="GitHubIcons/cpp.png" width="25">  <img src="GitHubIcons/html.png" width="25">  <img src="GitHubIcons/css.png" width="25">  <img src="GitHubIcons/java.png" width="25">  <img src="GitHubIcons/python.png" width="25">
 
 ___
 <br/>
@@ -14,4 +14,8 @@ ___
 
 # Get in touch
 
-[![Twitter](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/My%20project%20(1).png?raw=true)](https://twitter.com/iammaxlichter)
+[![LinkedIn](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/linkedin.png?raw=true)](https://www.linkedin.com/in/max-lichter-952409227/)
+[![Gmail](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/gmail.png?raw=true)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNqLdRtRhQSkJzcNnTjhqcqDNrbVJzTQPSsjTTvcRLwgTMjCsmfdbKSkXWhBFDwhzgQkVB)
+[![Facebook](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/facebook.png?raw=true)](https://www.facebook.com/max.lichter.37)
+[![Instagram](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/instagram.png?raw=true)](https://instagram.com/iammaxlichter)
+[![Twitter](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/twitter.png?raw=true)](https://twitter.com/iammaxlichter)
