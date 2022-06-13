@@ -8,11 +8,11 @@ I'm a Sophomore studying for my BS in `Computer Science` currently enrolled at *
 ### Languages
 <img src="GitHubIcons/cpp.png" width="25">  <img src="GitHubIcons/html.png" width="25">  <img src="GitHubIcons/css.png" width="25">  <img src="GitHubIcons/java.png" width="25">  <img src="GitHubIcons/python.png" width="25">
 
-___
+
 <br/>
 
-
-# Get in touch
+___
+### Get in touch
 
 [![LinkedIn](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/linkedin.png?raw=true)](https://www.linkedin.com/in/max-lichter-952409227/)
 [![Gmail](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/gmail.png?raw=true)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNqLdRtRhQSkJzcNnTjhqcqDNrbVJzTQPSsjTTvcRLwgTMjCsmfdbKSkXWhBFDwhzgQkVB)
