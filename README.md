@@ -8,11 +8,6 @@ I'm a Sophomore studying for my BS in `Computer Science` currently enrolled at *
 ### Languages
 <img src="GitHubIcons/cpp.png" width="25">  <img src="GitHubIcons/html.png" width="25">  <img src="GitHubIcons/css.png" width="25">  <img src="GitHubIcons/java.png" width="25">  <img src="GitHubIcons/python.png" width="25">
 
-<br/>
-
-### More About Me
-As a kid I was always facsinated with everything electronic. Growing up, I realized that fascination drove deep into Computer Science and everything relating to it. I've spent time exploring coding languages from my sophomore year of highschool to my freshman year of college, and now, as a 19 year old teen sophomore at UTD, I aspire to pursue a career in this tech field, one line at a time
-
 
 <br/>
 
