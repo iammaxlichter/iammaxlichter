@@ -1,4 +1,4 @@
-# Hey there, I'm [Max Lichter!](https://iammaxlichter.com)
+# Hey there, I'm [Max Lichter!](https://www.linkedin.com/in/max-lichter-952409227/)
 
 I'm a Sophomore studying for my BS in `Computer Science` currently enrolled at **The University Of Texas at Dallas ☄️** 
 
