@@ -7,7 +7,7 @@ I'm a Sophomore studying for my BS in `Computer Science` currently enrolled at *
 
 ### Programming Languages 
 Fluent in Java, Javascript, Flutter, Dart,  HTML, CSS, C++, and Python 3.0.
-<br/><br/><br/>
+<br/><br/>
 ### Computer Tools
 Figma, Github, Adobe Photoshop, and Microsoft Excel.
 
