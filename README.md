@@ -13,7 +13,7 @@ I'm a Sophomore studying for my BS in `Computer Science` currently enrolled at *
 
 
 # Get in touch
-<h2>iammaxlichter@gmail.com</h2>
+<h4>iammaxlichter@gmail.com</h4>
 
 [![LinkedIn](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/linkedin.png?raw=true)](https://www.linkedin.com/in/max-lichter-952409227/)
 [![Facebook](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/facebook.png?raw=true)](https://www.facebook.com/iammaxlichter)
