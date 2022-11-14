@@ -12,7 +12,7 @@ Fluent in Java, Javascript, Flutter, Dart,  HTML, CSS, C++, and Python 3.0.
 Figma, Github, Adobe Photoshop, and Microsoft Excel.
 
 
-<br/>
+<br>
 
 
 # Get in touch
