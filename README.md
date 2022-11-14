@@ -5,8 +5,11 @@ I'm a Sophomore studying for my BS in `Computer Science` currently enrolled at *
 <br/>
 
 
-### Languages
-<img src="GitHubIcons/cpp.png" width="25">  <img src="GitHubIcons/html.png" width="25">  <img src="GitHubIcons/css.png" width="25">  <img src="GitHubIcons/java.png" width="25">  <img src="GitHubIcons/python.png" width="25">
+### Programming Languages 
+Fluent in Java, Javascript, Flutter, Dart,  HTML, CSS, C++, and Python 3.0.
+
+### Computer Tools
+Figma, Github, Adobe Photoshop, and Microsoft Excel.
 
 
 <br/>
