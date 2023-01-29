@@ -12,7 +12,9 @@ I am currently making an ESSENTIAL gym app/webpage titled [GymThis](https://gith
 
 ### Get in touch!
 
+[![Gmail](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/gmail.png?raw=true)](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRzBWMVgSzKqFDgvXhztqlLqxZmtbdqTsHHhMPhKLghHjZpcQwcqspgmnhxkwjmGdVJWDLSM)
 [![LinkedIn](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/linkedin.png?raw=true)](https://www.linkedin.com/in/max-lichter-952409227/)
 [![Facebook](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/facebook.png?raw=true)](https://www.facebook.com/iammaxlichter)
 [![Instagram](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/instagram.png?raw=true)](https://instagram.com/iammaxlichter)
 [![Twitter](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/twitter.png?raw=true)](https://twitter.com/iammaxlichter)
+
