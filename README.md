@@ -10,7 +10,7 @@ I am currently making an ESSENTIAL gym app/webpage titled [GymThis](https://gith
 </br>
 </br>
 
-# Get in touch
+### Get in touch!
 
 [![LinkedIn](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/linkedin.png?raw=true)](https://www.linkedin.com/in/max-lichter-952409227/)
 [![Facebook](https://github.com/iammaxlichter/iammaxlichter/blob/main/GitHubIcons/facebook.png?raw=true)](https://www.facebook.com/iammaxlichter)
