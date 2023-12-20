@@ -6,7 +6,7 @@ I'm a Junior studying for my BS in `Computer Science` currently enrolled at **Th
 </br>
 
 I am currently making an ESSENTIAL gym app/webpage titled [GymThis](https://github.com/iammaxlichter/GymThis "GymThis GitHub"). GymThis helps new and experienced gym goers alike store information regarding the gym and everything about it 🏋💪. </br>
-**Currrently 10% done.**
+**Currrently 50% done.**
 </br>
 </br>
 
