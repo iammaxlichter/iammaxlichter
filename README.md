@@ -1,6 +1,6 @@
 # Hey, I'm [Max Lichter!](https://iammaxlichter.github.io)
 
-I'm a Junior studying for my B.S. in `Computer Science` currently enrolled at **The University Of Texas at Dallas ☄️** 
+I'm a Senior studying for my B.S. in `Computer Science` currently enrolled at **The University Of Texas at Dallas ☄️** 
 
 </br>
 </br>
