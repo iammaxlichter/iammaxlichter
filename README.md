@@ -1,6 +1,6 @@
 # Hey, I'm [Max Lichter!](https://iammaxlichter.com)
 
-I graduated in 2025 with a B.S. in `Computer Science` from **The University of Texas at Dallas ☄️**.
+I graduated in May 2025 with a B.S. in `Computer Science` from **The University of Texas at Dallas ☄️**.
 
 </br>
 
