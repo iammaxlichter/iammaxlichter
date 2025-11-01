@@ -1,6 +1,6 @@
 # Hey, I'm [Max Lichter!](https://iammaxlichter.com)
 
-I’m a **Software Engineer** passionate about web and app development!  
+I’m a **Software Engineer** passionate about web development!  
 
 </br>
 
